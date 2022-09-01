@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="89486" started-at="2022-08-29T17:49:39 IST" finished-at="2022-08-29T17:51:09 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="89486" started-at="2022-08-29T17:49:39 IST" finished-at="2022-08-29T17:51:09 IST">
+      <class name="demo2.LoginPageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:demo2.LoginPageTest@2db7a79b]" name="openBrowser" is-config="true" duration-ms="36122" started-at="2022-08-29T17:49:39 IST" finished-at="2022-08-29T17:50:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="byingItem()[pri:0, instance:demo2.LoginPageTest@2db7a79b]" name="byingItem" duration-ms="45532" started-at="2022-08-29T17:50:16 IST" finished-at="2022-08-29T17:51:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- byingItem -->
+        <test-method status="PASS" signature="varifyMethod()[pri:0, instance:demo2.LoginPageTest@2db7a79b]" name="varifyMethod" duration-ms="3523" started-at="2022-08-29T17:51:02 IST" finished-at="2022-08-29T17:51:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyMethod -->
+        <test-method status="PASS" signature="closingBrowser()[pri:0, instance:demo2.LoginPageTest@2db7a79b]" name="closingBrowser" is-config="true" duration-ms="3242" started-at="2022-08-29T17:51:05 IST" finished-at="2022-08-29T17:51:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- demo2.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
